@@ -29,9 +29,7 @@ author:
   location         : "Washington DC"
   employer         : "The George Washington University"
   uri              : # URL
-  emails:
-  - "guanhaob@gwu.edu"
-  - "ghbao@bu.edu"
+  email            : "guanhaob@gwu.edu"
 
   # Academic websites
   academia         : # URL
@@ -64,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : "guanhaobao"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Guanhao Bao"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
