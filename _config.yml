@@ -22,7 +22,7 @@ repository               : "GuanhaoBao/guanhaobao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "Guanhao Bao.jpg"
   name             : "Guanhao Bao"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD @ GWU — Time Series, Monetary Policy Uncertainty, Deep Learning."
