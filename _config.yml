@@ -25,13 +25,12 @@ author:
   avatar           : "Guanhao Bao.jpg"
   name             : "Guanhao Bao"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D., Economics GWU —<br>Time Series, Monetary Policy Uncertainty, Deep Learning."
+  bio              : "Ph.D., Economics GWU <br>Time Series, Monetary Policy Uncertainty, Deep Learning."
   location         : "Washington DC"
   employer         : "The George Washington University"
   uri              : # URL
-  email            :  
-  - "guanhaob@gwu.edu"
-  - "ghbao@bu.edu"
+  email            :  "guanhaob@gwu.edu"
+  email            :  "ghbao@bu.edu"
 
   # Academic websites
   academia         : # URL
