@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Economics, The George Washington University, Washington, D.C., 08/2025 – Present
+* M.A. in Economic Policy, Boston University, Boston, 01/2023 – 01/2025
+* M.A. in Finance, Shanghai Normal University, Shanghai, 10/2020 – 05/2022
+* B.S. in Information and Computing Sciences, Shanghai Ocean University, Shanghai, 09/2014 – 06/2018
 
 Work experience
 ======
