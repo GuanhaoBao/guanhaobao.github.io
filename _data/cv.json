@@ -32,34 +32,43 @@
   },
   "work": [],
   "education": [
-    {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
+  {
+    "institution": "The George Washington University, Washington, D.C.",
+    "area": "Ph.D. in Economics",
+    "studyType": "",
+    "startDate": "2025-08",
+    "endDate": "",
+    "gpa": null,
+    "courses": []
+  },
+  {
+    "institution": "Boston University, Boston",
+    "area": "M.A. in Economic Policy",
+    "studyType": "",
+    "startDate": "2023-01",
+    "endDate": "2025-01",
+    "gpa": null,
+    "courses": []
+  },
+  {
+    "institution": "Shanghai Normal University, Shanghai",
+    "area": "M.A. in Finance",
+    "studyType": "",
+    "startDate": "2020-10",
+    "endDate": "2022-05",
+    "gpa": null,
+    "courses": []
+  },
+  {
+    "institution": "Shanghai Ocean University, Shanghai",
+    "area": "B.S. in Information and Computing Sciences",
+    "studyType": "",
+    "startDate": "2014-09",
+    "endDate": "2018-06",
+    "gpa": null,
+    "courses": []
+  }
+],
   "skills": [],
   "languages": [],
   "interests": [],
