@@ -29,8 +29,9 @@ author:
   location         : "Washington DC"
   employer         : "The George Washington University"
   uri              : # URL
-  email            :  "guanhaob@gwu.edu"
-  email            :  "ghbao@bu.edu"
+  emails:
+  - "guanhaob@gwu.edu"
+  - "ghbao@bu.edu"
 
   # Academic websites
   academia         : # URL
