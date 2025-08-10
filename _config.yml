@@ -13,7 +13,7 @@ title                    : "Guanhao Bao"
 title_separator          : "-"
 name                     : &name "Guanhao Bao"
 description              : &description "Economics PhD @ GWU — Time Series, Monetary Policy Uncertainty, Deep Learning."
-url                      : https://guanhaobao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://github.com/GuanhaoBao/guanhaobao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GuanhaoBao/guanhaobao.github.io"
 
