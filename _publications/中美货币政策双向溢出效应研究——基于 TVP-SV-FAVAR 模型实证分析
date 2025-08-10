@@ -2,13 +2,14 @@
 title: "中美货币政策双向溢出效应研究——基于 TVP-SV-FAVAR 模型实证分析"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-08-china-us-monetarypolicy-spillover/
-excerpt: '研究中美宏观货币政策间的双向 spillover 效应，采用 TVP-SV-FAVAR 模型揭示时间变化与结构特性。'
-date: 2025-06-08
-venue: 'Working Paper'
-slidesurl: '/files/china-us-tvpsvfavar-slides.pdf'
-paperurl: '/files/china-us-tvpsvfavar.pdf'
-bibtexurl: '/files/china-us-tvpsvfavar.bib'
-citation: 'Bao, Guanhao. (2025). "中美货币政策双向溢出效应研究——基于 TVP-SV-FAVAR 模型实证分析." Working Paper.'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-本文运用 TVP-SV-FAVAR 建模框架，系统量化了中美货币政策在不同宏观状态下的双向 spillover。核心发现包括政策传导路径中的异质性波动、时间演化结构与频域特征，揭示了结构断点与多尺度动态的预测意义。
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
